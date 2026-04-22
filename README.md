@@ -37,19 +37,19 @@
 
 装甲板：
 
-![1](assets\1.png)
+![1](assets/1.png)
 
 图传模块：
 
-![2](assets\2.png)
+![2](assets/2.png)
 
 选手端：
 
-![3](assets\3.png)
+![3](assets/3.png)
 
 裁判端：
 
-![4](assets\4.png)
+![4](assets/4.png)
 
 ## 1.2 比赛通知
 
@@ -67,13 +67,13 @@
 
 另设最佳人气奖， 颁发独特的奖杯
 
-![6](assets\6.png)
+![6](assets/6.png)
 
-![7](assets\7.JPG)
+![7](assets/7.JPG)
 
 ## 2.4 视觉设计
 
-![8](assets\8.png)
+![8](assets/8.png)
 
 
 
